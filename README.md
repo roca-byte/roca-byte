@@ -8,7 +8,7 @@
 
 ### Qué hago
 
-Trabajo en control de calidad de planta y uso la programación para digitalizar tareas que antes se hacían en papel o en Excel y Word: recorridas de línea, registro de desvíos e informes para gerencia. Las apps que ves acá las uso en mi trabajo diario.
+Trabajo en control de calidad de planta y uso la programación para digitalizar tareas que antes se hacían en papel o en Excel y Word: recorridas de línea, registro de desvíos e informes para gestión.
 
 ---
 
@@ -16,10 +16,10 @@ Trabajo en control de calidad de planta y uso la programación para digitalizar 
 
 | Proyecto | Qué resuelve | Tecnología | Demo |
 |----------|--------------|------------|------|
-| [**controlLinea**](https://github.com/quality-systems/controlLinea) | Registro de las recorridas de control en líneas de envasado y control final de lotes, con reporte gráfico del día exportable a PDF. Funciona sin señal y se instala en el celular. | HTML, CSS, JavaScript (PWA) | [Abrir](https://quality-systems.github.io/controlLinea/) |
-| [**informeCalidad**](https://github.com/quality-systems/informeCalidad) | Armado del Informe de Estado de Planta desde el celular: se cargan desvíos con fotos y acción correctiva y se genera el PDF con el formato de la empresa. Opción de mejorar la redacción con IA. | HTML, CSS, JavaScript (PWA), jsPDF, Cloudflare Workers AI | [Abrir](https://quality-systems.github.io/informeCalidad/) |
-| [**calidad-no-conformidades**](https://github.com/quality-systems/calidad-no-conformidades) | Registro mensual de No Conformidades tipo planilla: severidad sugerida según el desvío, plazo automático en días hábiles, KPIs en tiempo real, impresión/PDF, Excel y backup. Funciona sin conexión. | HTML, CSS, JavaScript (PWA), IndexedDB, SheetJS | [Abrir](https://quality-systems.github.io/calidad-no-conformidades/) |
-| [**mash-check**](https://github.com/quality-systems/mash-check) | Planillas de control de Seguridad e Higiene (botiquines, tableros eléctricos, absorbentes) con constructor de planillas propias y reporte del día para imprimir o compartir. Funciona sin conexión. | HTML, CSS, JavaScript (PWA) | [Abrir](https://quality-systems.github.io/mash-check/) |
+| [**controlLinea**](https://github.com/rocabyte/controlLinea) | Registro de las recorridas de control en líneas de envasado y control final de lotes, con reporte gráfico del día exportable a PDF | HTML, CSS, JavaScript | [Ver demo](https://rocabyte.github.io/controlLinea/) |
+| [**informeCalidad**](https://github.com/rocabyte/informeCalidad) | Armado del Informe de Estado de Planta desde el celular: se cargan desvíos con fotos y acción correctiva y se genera un PDF listo para enviar | HTML, CSS, JavaScript | [Ver demo](https://rocabyte.github.io/informeCalidad/) |
+| [**calidad-no-conformidades**](https://github.com/rocabyte/calidad-no-conformidades) | Registro mensual de No Conformidades tipo planilla: severidad sugerida según el desvío, plazo automático y carga de evidencia | HTML, CSS, JavaScript | [Ver demo](https://rocabyte.github.io/calidad-no-conformidades/) |
+| [**mash-check**](https://github.com/rocabyte/mash-check) | Planillas de control de Seguridad e Higiene (botiquines, tableros eléctricos, absorbentes) con constructor de planillas propias | HTML, CSS, JavaScript | [Ver demo](https://rocabyte.github.io/mash-check/) |
 
 ---
 
