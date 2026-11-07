@@ -16,10 +16,10 @@ Trabajo en control de calidad de planta y uso la programación para digitalizar 
 
 | Proyecto | Qué resuelve | Tecnología | Demo |
 |----------|--------------|------------|------|
-| [**controlLinea**](https://github.com/rocabyte/controlLinea) | Registro de las recorridas de control en líneas de envasado y control final de lotes, con reporte gráfico del día exportable a PDF | HTML, CSS, JavaScript | [Ver demo](https://rocabyte.github.io/controlLinea/) |
-| [**informeCalidad**](https://github.com/rocabyte/informeCalidad) | Armado del Informe de Estado de Planta desde el celular: se cargan desvíos con fotos y acción correctiva y se genera un PDF listo para enviar | HTML, CSS, JavaScript | [Ver demo](https://rocabyte.github.io/informeCalidad/) |
-| [**calidad-no-conformidades**](https://github.com/rocabyte/calidad-no-conformidades) | Registro mensual de No Conformidades tipo planilla: severidad sugerida según el desvío, plazo automático y carga de evidencia | HTML, CSS, JavaScript | [Ver demo](https://rocabyte.github.io/calidad-no-conformidades/) |
-| [**mash-check**](https://github.com/rocabyte/mash-check) | Planillas de control de Seguridad e Higiene (botiquines, tableros eléctricos, absorbentes) con constructor de planillas propias | HTML, CSS, JavaScript | [Ver demo](https://rocabyte.github.io/mash-check/) |
+| [**controlLinea**](https://github.com/roca-byte/controlLinea) | Registro de las recorridas de control en líneas de envasado y control final de lotes, con reporte gráfico del día exportable a PDF | HTML, CSS, JavaScript | [Ver demo](https://roca-byte.github.io/controlLinea/) |
+| [**informeCalidad**](https://github.com/roca-byte/informeCalidad) | Armado del Informe de Estado de Planta desde el celular: se cargan desvíos con fotos y acción correctiva y se genera un PDF listo para enviar | HTML, CSS, JavaScript | [Ver demo](https://roca-byte.github.io/informeCalidad/) |
+| [**calidad-no-conformidades**](https://github.com/roca-byte/calidad-no-conformidades) | Registro mensual de No Conformidades tipo planilla: severidad sugerida según el desvío, plazo automático y carga de evidencia | HTML, CSS, JavaScript | [Ver demo](https://roca-byte.github.io/calidad-no-conformidades/) |
+| [**mash-check**](https://github.com/roca-byte/mash-check) | Planillas de control de Seguridad e Higiene (botiquines, tableros eléctricos, absorbentes) con constructor de planillas propias | HTML, CSS, JavaScript | [Ver demo](https://roca-byte.github.io/mash-check/) |
 
 ---
 
