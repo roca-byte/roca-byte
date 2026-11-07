@@ -26,8 +26,8 @@ Trabajo en control de calidad de planta y uso la programación para digitalizar 
 ### 🎓 Formación
 
 - **Tecnicatura Universitaria en Desarrollo de Software** · Universidad Provincial de Ezeiza (UPE) · *en curso, 1er año*
-- **Diplomatura en Gestión Integral de la Calidad** · UTN · *finalizando*
-- **Diplomatura en Programación Web Full Stack IA Assisted** · UTN · *cursando*
+- **Diplomatura en Gestión Integral de la Calidad** · UTN FRR · *en curso, finaliza en noviembre de 2026*
+- **Diplomatura en Programación Web Full Stack IA Assisted** · UTN FRR · *en curso*
 - **Técnico en Informática** · Escuela Técnica N°1 de Quilmes · 2019
 
 ---
