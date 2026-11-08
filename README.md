@@ -18,7 +18,7 @@
 
 Trabajo en control de calidad de planta y uso la programación para digitalizar tareas que antes se hacían en papel o en Excel y Word: recorridas de línea, registro de desvíos, no conformidades e informes para gestión.
 
-Todas mis apps comparten **QualityOS**, una misma identidad visual: teal profundo, componentes simples, botones grandes para usar con guantes y funcionamiento sin conexión.
+Todas mis apps comparten **QualityOS**, una misma identidad visual: teal profundo, componentes simples, botones grandes para usar con guantes y funcionamiento sin conexión. La app **qualityos** es la primera que desarrollé y el origen de la suite: la reconstruí desde cero sobre Supabase.
 
 ---
 
@@ -26,16 +26,11 @@ Todas mis apps comparten **QualityOS**, una misma identidad visual: teal profund
 
 | Proyecto | Qué resuelve | Stack | Demo |
 |----------|--------------|-------|------|
+| [**qualityos**](https://github.com/roca-byte/qualityos) | Control de lotes de punta a punta: control en línea por pallet, control final y dictamen, multiempresa con roles y funcionamiento sin señal | HTML · CSS · JS · PWA · Supabase | [Abrir](https://roca-byte.github.io/qualityos/) |
 | [**controlLinea**](https://github.com/roca-byte/controlLinea) | Recorridas de control en líneas de envasado y control final de lotes, con reporte gráfico del día exportable a PDF | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/controlLinea/) |
 | [**mash-check**](https://github.com/roca-byte/mash-check) | Planillas de Seguridad e Higiene (botiquines, tableros eléctricos, absorbentes) con constructor de planillas propias | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/mash-check/) |
 | [**informeCalidad**](https://github.com/roca-byte/informeCalidad) | Informe de Estado de Planta desde el celular: desvíos con fotos, acción correctiva y PDF listo para enviar | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/informeCalidad/) |
 | [**calidad-no-conformidades**](https://github.com/roca-byte/calidad-no-conformidades) | Registro mensual de No Conformidades tipo planilla, con KPIs, severidad sugerida, plazos y exportación a Excel | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/calidad-no-conformidades/) |
-
----
-
-### 🚧 En preparación
-
-**QualityOS** — la primera aplicación que desarrollé y el origen de esta suite. La había borrado por accidente; estoy preparando una nueva versión para volver a publicarla. El enlace va a quedar acá cuando esté online.
 
 ---
 
@@ -69,7 +64,7 @@ Las apps respetan el modo claro/oscuro del sistema y usan la misma barra superio
 ### 🧰 Herramientas y conocimientos
 
 - **Programación:** C (en aprendizaje), HTML, CSS, JavaScript
-- **Herramientas:** Git, GitHub, GitHub Pages, VS Code
+- **Herramientas:** Git, GitHub, GitHub Pages, Supabase (Postgres, RLS), VS Code
 - **Calidad:** ISO 9001, No Conformidades, acciones correctivas, control en línea, informes de desvíos, KPIs de calidad
 
 ---
