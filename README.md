@@ -33,6 +33,12 @@ Todas mis apps comparten **QualityOS**, una misma identidad visual: teal profund
 
 ---
 
+### 🚧 En preparación
+
+**QualityOS** — la primera aplicación que desarrollé y el origen de esta suite. La había borrado por accidente; estoy preparando una nueva versión para volver a publicarla. El enlace va a quedar acá cuando esté online.
+
+---
+
 ### 🎨 Identidad visual
 
 La base compartida de **QualityOS**:
