@@ -4,7 +4,7 @@
 
 # Maximiliano Roca
 
-**Checker de Calidad que programa las herramientas que usa en planta**
+**Inspector de Calidad que programa las herramientas que usa en planta**
 
 [![GitHub](https://img.shields.io/badge/GitHub-roca--byte-0f5c6e?style=flat-square&logo=github&logoColor=white)](https://github.com/roca-byte)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maximiliano_Roca-0f5c6e?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-roca-120b69235)
@@ -37,7 +37,7 @@ la reconstruí desde cero sobre **Supabase**.
 
 <br clear="left">
 
-- **Multiempresa**: cada empresa ve solo sus datos, con roles (Checker, Coordinación,
+- **Multiempresa**: cada empresa ve solo sus datos, con roles (Inspector de Calidad, Coordinación,
   Administración) que hace cumplir la propia base de datos.
 - **Sin señal primero**: carga todo en la tablet y sincroniza cuando vuelve la conexión, sin
   pisar cambios de otros equipos.
