@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="QualityOS — herramientas de calidad para planta" width="100%">
+<img src="banner.svg" alt="QualityOS — sistema de gestión de calidad" width="100%">
 
 # Maximiliano Roca
 
