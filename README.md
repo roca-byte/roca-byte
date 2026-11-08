@@ -4,7 +4,7 @@
 
 # Maximiliano Roca
 
-**QualityOS · Herramientas simples para calidad en planta**
+**Checker de Calidad que programa las herramientas que usa en planta**
 
 [![GitHub](https://img.shields.io/badge/GitHub-roca--byte-0f5c6e?style=flat-square&logo=github&logoColor=white)](https://github.com/roca-byte)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maximiliano_Roca-0f5c6e?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-roca-120b69235)
@@ -14,41 +14,62 @@
 
 ---
 
-### Qué hago
+### 👋 Sobre mí
 
-Trabajo en control de calidad de planta y uso la programación para digitalizar tareas que antes se hacían en papel o en Excel y Word: recorridas de línea, registro de desvíos, no conformidades e informes para gestión.
+Trabajo en control de calidad de planta. Lo que veo todos los días son planillas en papel,
+Excel que se pasan en limpio al final del turno e informes que se arman a mano. Por eso
+estudio desarrollo de software: para convertir esas tareas en apps simples que se usan
+**desde el celular o la tablet, en la línea, con guantes y aunque no haya señal**.
 
-Todas mis apps comparten **QualityOS**, una misma identidad visual: teal profundo, componentes simples, botones grandes para usar con guantes y funcionamiento sin conexión. La app **qualityos** es la primera que desarrollé y el origen de la suite: la reconstruí desde cero sobre Supabase.
+Todas mis apps forman la suite **QualityOS**: una misma forma de trabajar y una misma identidad
+visual, cada una enfocada en una tarea concreta de calidad.
 
 ---
 
-### 📂 Proyectos
+### ⭐ Proyecto destacado: QualityOS · Control de lotes
 
-| Proyecto | Qué resuelve | Stack | Demo |
-|----------|--------------|-------|------|
-| [**qualityos**](https://github.com/roca-byte/qualityos) | Control de lotes de punta a punta: control en línea por pallet, control final y dictamen, multiempresa con roles y funcionamiento sin señal | HTML · CSS · JS · PWA · Supabase | [Abrir](https://roca-byte.github.io/qualityos/) |
-| [**controlLinea**](https://github.com/roca-byte/controlLinea) | Recorridas de control en líneas de envasado y control final de lotes, con reporte gráfico del día exportable a PDF | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/controlLinea/) |
+<a href="https://github.com/roca-byte/qualityos"><img src="https://raw.githubusercontent.com/roca-byte/qualityos/main/icons/icon.svg" alt="" width="56" align="left"></a>
+
+Control de calidad de lotes de punta a punta: **control en línea** pallet por pallet (peso por
+pico, identificación, inducción con semáforo, QR, packaging y paletizado), **control final** y
+**dictamen** con registro de quién lo firmó. Es la primera app que hice y el origen de la suite:
+la reconstruí desde cero sobre **Supabase**.
+
+<br clear="left">
+
+- **Multiempresa**: cada empresa ve solo sus datos, con roles (Checker, Coordinación,
+  Administración) que hace cumplir la propia base de datos.
+- **Sin señal primero**: carga todo en la tablet y sincroniza cuando vuelve la conexión, sin
+  pisar cambios de otros equipos.
+- **Auditoría** de cada versión de cada lote y **registro imprimible** en A4.
+
+[Ver el repositorio](https://github.com/roca-byte/qualityos) · [Abrir la app](https://roca-byte.github.io/qualityos/) (acceso por invitación)
+
+---
+
+### 📂 La suite QualityOS
+
+| App | Qué resuelve | Stack | Demo |
+|-----|--------------|-------|------|
+| [**qualityos**](https://github.com/roca-byte/qualityos) | Control de lotes: control en línea por pallet, control final y dictamen, multiempresa y sin señal | HTML · CSS · JS · PWA · Supabase | [Abrir](https://roca-byte.github.io/qualityos/) |
+| [**controlLinea**](https://github.com/roca-byte/controlLinea) | Recorridas de control en líneas de envasado y control final de lotes, con reporte gráfico del día en PDF | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/controlLinea/) |
 | [**mash-check**](https://github.com/roca-byte/mash-check) | Planillas de Seguridad e Higiene (botiquines, tableros eléctricos, absorbentes) con constructor de planillas propias | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/mash-check/) |
 | [**informeCalidad**](https://github.com/roca-byte/informeCalidad) | Informe de Estado de Planta desde el celular: desvíos con fotos, acción correctiva y PDF listo para enviar | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/informeCalidad/) |
 | [**calidad-no-conformidades**](https://github.com/roca-byte/calidad-no-conformidades) | Registro mensual de No Conformidades tipo planilla, con KPIs, severidad sugerida, plazos y exportación a Excel | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/calidad-no-conformidades/) |
 
 ---
 
-### 🎨 Identidad visual
+### 🛠️ Cómo construyo
 
-La base compartida de **QualityOS**:
-
-| Token | Valor | Uso |
-|-------|-------|-----|
-| Teal profundo | `#0F5C6E` | Barra superior, botones principales, títulos |
-| Verde acento | `#00A884` | Marca, indicadores positivos y foco |
-| Fondo claro | `#EEF3F3` | Fondo general en modo claro |
-| Tinta | `#12262D` | Texto principal |
-| Tipografía | Segoe UI / system-ui | Interfaz legible en celular y escritorio |
-| Radios | 10–14 px | Botones, tarjetas y campos |
-| Toque mínimo | 48 px | Botones cómodos para usar con guantes |
-
-Las apps respetan el modo claro/oscuro del sistema y usan la misma barra superior con la marca **Q**.
+- **Hecho para la planta:** botones de al menos 48 px, pocos campos por pantalla y lenguaje
+  de todos los días.
+- **Funciona sin conexión:** todas las apps son PWA instalables que abren sin señal.
+- **Simple a propósito:** HTML, CSS y JavaScript puros, sin frameworks ni build. Cualquiera
+  puede abrir el código y entenderlo.
+- **Reglas separadas de la pantalla:** en QualityOS las reglas de negocio y los permisos
+  tienen pruebas automáticas.
+- **Misma identidad:** teal profundo `#0F5C6E`, verde acento `#00A884`, modo claro u oscuro
+  según el sistema y la misma barra superior con la marca **Q**.
 
 ---
 
