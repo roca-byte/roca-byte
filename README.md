@@ -28,7 +28,7 @@ visual, cada una enfocada en una tarea concreta de calidad.
 
 ### ⭐ Proyecto destacado: QualityOS · Control de lotes
 
-<a href="https://github.com/roca-byte/qualityos"><img src="https://raw.githubusercontent.com/roca-byte/qualityos/main/icons/icon.svg" alt="" width="56" align="left"></a>
+<a href="https://github.com/roca-byte/qualityos"><img src="logo.svg" alt="QualityOS" width="64" align="left"></a>
 
 Control de calidad de lotes de punta a punta: **control en línea** pallet por pallet (peso por
 pico, identificación, inducción con semáforo, QR, packaging y paletizado), **control final** y
