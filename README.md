@@ -56,6 +56,7 @@ la reconstruí desde cero sobre **Supabase**.
 | [**mash-check**](https://github.com/roca-byte/mash-check) | Planillas de Seguridad e Higiene (botiquines, tableros eléctricos, absorbentes) con constructor de planillas propias | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/mash-check/) |
 | [**informeCalidad**](https://github.com/roca-byte/informeCalidad) | Informe de Estado de Planta desde el celular: desvíos con fotos, acción correctiva y PDF listo para enviar | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/informeCalidad/) |
 | [**calidad-no-conformidades**](https://github.com/roca-byte/calidad-no-conformidades) | Registro mensual de No Conformidades tipo planilla, con KPIs, severidad sugerida, plazos y exportación a Excel | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/calidad-no-conformidades/) |
+| [**causa-raiz**](https://github.com/roca-byte/causa-raiz) | Análisis de causa raíz de un problema: Ishikawa 6M, 5 por qué, plan de acción, verificación de eficacia y Pareto | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/causa-raiz/) |
 
 ---
 
