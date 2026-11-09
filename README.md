@@ -67,8 +67,8 @@ la reconstruí desde cero sobre **Supabase**.
 - **Funciona sin conexión:** todas las apps son PWA instalables que abren sin señal.
 - **Simple a propósito:** HTML, CSS y JavaScript puros, sin frameworks ni build. Cualquiera
   puede abrir el código y entenderlo.
-- **Reglas separadas de la pantalla:** en QualityOS las reglas de negocio y los permisos
-  tienen pruebas automáticas.
+- **Reglas separadas de la pantalla:** en QualityOS y en Análisis Causa Raíz las reglas de
+  negocio tienen pruebas automáticas (y en QualityOS, también los permisos).
 - **Misma identidad:** teal profundo `#0F5C6E`, verde acento `#00A884`, modo claro u oscuro
   según el sistema y la misma barra superior con la marca **Q**.
 
@@ -87,7 +87,7 @@ la reconstruí desde cero sobre **Supabase**.
 
 - **Programación:** C (en aprendizaje), HTML, CSS, JavaScript
 - **Herramientas:** Git, GitHub, GitHub Pages, Supabase (Postgres, RLS), VS Code
-- **Calidad:** ISO 9001, No Conformidades, acciones correctivas, control en línea, informes de desvíos, KPIs de calidad
+- **Calidad:** ISO 9001, No Conformidades, acciones correctivas, análisis de causa raíz (Ishikawa, 5 por qué, Pareto), control en línea, informes de desvíos, KPIs de calidad
 
 ---
 
