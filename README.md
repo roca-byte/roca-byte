@@ -49,14 +49,14 @@ la reconstruí desde cero sobre **Supabase**.
 
 ### 📂 La suite QualityOS
 
-| App | Qué resuelve | Stack | Demo |
-|-----|--------------|-------|------|
-| [**qualityos**](https://github.com/roca-byte/qualityos) | Control de lotes: control en línea por pallet, control final y dictamen, multiempresa y sin señal | HTML · CSS · JS · PWA · Supabase | [Abrir](https://roca-byte.github.io/qualityos/) |
-| [**controlLinea**](https://github.com/roca-byte/controlLinea) | Recorridas de control en líneas de envasado y control final de lotes, con reporte gráfico del día en PDF | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/controlLinea/) |
-| [**mash-check**](https://github.com/roca-byte/mash-check) | Planillas de Seguridad e Higiene (botiquines, tableros eléctricos, absorbentes) con constructor de planillas propias | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/mash-check/) |
-| [**informeCalidad**](https://github.com/roca-byte/informeCalidad) | Informe de Estado de Planta desde el celular: desvíos con fotos, acción correctiva y PDF listo para enviar | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/informeCalidad/) |
-| [**calidad-no-conformidades**](https://github.com/roca-byte/calidad-no-conformidades) | Registro mensual de No Conformidades tipo planilla, con KPIs, severidad sugerida, plazos y exportación a Excel | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/calidad-no-conformidades/) |
-| [**causa-raiz**](https://github.com/roca-byte/causa-raiz) | Análisis de causa raíz de un problema: Ishikawa 6M, 5 por qué, plan de acción, verificación de eficacia y Pareto | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/causa-raiz/) |
+| App | Qué resuelve | Stack | Probala |
+|-----|--------------|-------|---------|
+| [**qualityos**](https://github.com/roca-byte/qualityos) | Control de lotes: control en línea por pallet, control final y dictamen, multiempresa y sin señal | HTML · CSS · JS · PWA · Supabase | [Abrir](https://roca-byte.github.io/qualityos/) · [Video](https://github.com/roca-byte/qualityos/blob/main/docs/video/qualityos-demo.mp4) · [Guía](https://github.com/roca-byte/qualityos/blob/main/docs/GUIA.md) |
+| [**controlLinea**](https://github.com/roca-byte/controlLinea) | Recorridas de control en líneas de envasado y control final de lotes, con reporte gráfico del día en PDF | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/controlLinea/) · [Video](https://github.com/roca-byte/controlLinea/blob/main/docs/video/control-linea-demo.mp4) · [Guía](https://github.com/roca-byte/controlLinea/blob/main/docs/GUIA.md) |
+| [**mash-check**](https://github.com/roca-byte/mash-check) | Planillas de Seguridad e Higiene (botiquines, tableros eléctricos, absorbentes) con constructor de planillas propias | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/mash-check/) · [Video](https://github.com/roca-byte/mash-check/blob/main/docs/video/mash-check-demo.mp4) · [Guía](https://github.com/roca-byte/mash-check/blob/main/docs/GUIA.md) |
+| [**informeCalidad**](https://github.com/roca-byte/informeCalidad) | Informe de Estado de Planta desde el celular: desvíos con fotos, acción correctiva y PDF listo para enviar | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/informeCalidad/) · [Video](https://github.com/roca-byte/informeCalidad/blob/main/docs/video/informeCalidad-demo.mp4) · [Guía](https://github.com/roca-byte/informeCalidad/blob/main/docs/GUIA.md) |
+| [**calidad-no-conformidades**](https://github.com/roca-byte/calidad-no-conformidades) | Registro mensual de No Conformidades tipo planilla, con KPIs, severidad sugerida, plazos y exportación a Excel | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/calidad-no-conformidades/) · [Video](https://github.com/roca-byte/calidad-no-conformidades/blob/main/docs/video/calidad-no-conformidades-demo.mp4) · [Guía](https://github.com/roca-byte/calidad-no-conformidades/blob/main/docs/GUIA.md) |
+| [**causa-raiz**](https://github.com/roca-byte/causa-raiz) | Análisis de causa raíz de un problema: Ishikawa 6M, 5 por qué, plan de acción, verificación de eficacia y Pareto | HTML · CSS · JS · PWA | [Abrir](https://roca-byte.github.io/causa-raiz/) · [Video](https://github.com/roca-byte/causa-raiz/blob/main/docs/video/causa-raiz-demo.mp4) · [Guía](https://github.com/roca-byte/causa-raiz/blob/main/docs/GUIA.md) |
 
 ---
 
@@ -67,8 +67,11 @@ la reconstruí desde cero sobre **Supabase**.
 - **Funciona sin conexión:** todas las apps son PWA instalables que abren sin señal.
 - **Simple a propósito:** HTML, CSS y JavaScript puros, sin frameworks ni build. Cualquiera
   puede abrir el código y entenderlo.
-- **Reglas separadas de la pantalla:** en QualityOS y en Análisis Causa Raíz las reglas de
-  negocio tienen pruebas automáticas (y en QualityOS, también los permisos).
+- **Reglas separadas de la pantalla:** en QualityOS, Análisis Causa Raíz y el Registro de No
+  Conformidades las reglas de negocio tienen pruebas automáticas (y en QualityOS, también los
+  permisos).
+- **Fácil de aprender:** cada app tiene una guía de uso con capturas y un video corto, hechos
+  con datos de ejemplo inventados.
 - **Misma identidad:** teal profundo `#0F5C6E`, verde acento `#00A884`, modo claro u oscuro
   según el sistema y la misma barra superior con la marca **Q**.
 
