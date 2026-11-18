@@ -81,7 +81,6 @@ la reconstruí desde cero sobre **Supabase**.
 
 - **Tecnicatura Universitaria en Desarrollo de Software** · Universidad Provincial de Ezeiza (UPE) · *en curso, 1er año*
 - **Diplomatura en Gestión Integral de la Calidad** · UTN FRRe · *en curso, finaliza en noviembre de 2026*
-- **Diplomatura en Programación Web Full Stack IA Assisted** · UTN FRRe · *en curso*
 - **Técnico en Informática** · Escuela Técnica N°1 de Quilmes · 2019
 
 ---
