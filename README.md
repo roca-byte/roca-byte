@@ -83,9 +83,11 @@ la reconstruí desde cero sobre **Supabase**.
 - **Diplomatura en Gestión Integral de la Calidad** · UTN FRRe · *en curso, finaliza en noviembre de 2026*
   - Normas ISO 9001:2015 y Sistema de Gestión de la Calidad (SGC) · Auditoría de la Calidad ·
     Diagnóstico de Calidad · Gestión de Calidad y Mejora Continua · Lean Six Sigma *(en curso)*
+- **Diplomatura en Buenas Prácticas de Manufactura (BPM)** · UTN San Nicolás · *en curso, desde abril de 2026*
+  - 1 de 3 cursos completado: Auditoría Interna y a Terceros GMP/BPM
 - **Técnico en Informática** · Escuela Técnica N°1 de Quilmes · 2019
 
-**Cursos:** Auditoría Interna y a Terceros GMP/BPM (UTN FRRe, 2026) · Gestión de Calidad ISO 9001 (Edutin Academy, 2026)
+**Cursos:** Auditoría Interna y a Terceros GMP/BPM (UTN San Nicolás, 2026) · Gestión de Calidad ISO 9001 (Edutin Academy, 2026)
 
 ---
 
