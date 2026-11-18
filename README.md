@@ -81,8 +81,13 @@ la reconstruí desde cero sobre **Supabase**.
 
 - **Tecnicatura Universitaria en Desarrollo de Software** · Universidad Provincial de Ezeiza (UPE) · *en curso, 1er año*
 - **Diplomatura en Gestión Integral de la Calidad** · UTN FRRe · *en curso, finaliza en noviembre de 2026*
-- **Diplomatura en Programación Web Full Stack IA Assisted** · UTN FRRe · *en curso*
+  - Normas ISO 9001:2015 y Sistema de Gestión de la Calidad (SGC) · Auditoría de la Calidad ·
+    Diagnóstico de Calidad · Gestión de Calidad y Mejora Continua · Lean Six Sigma *(en curso)*
+- **Diplomatura en Buenas Prácticas de Manufactura (BPM)** · UTN San Nicolás · *en curso, desde abril de 2026*
+  - 1 de 3 cursos completado: Auditoría Interna y a Terceros GMP/BPM
 - **Técnico en Informática** · Escuela Técnica N°1 de Quilmes · 2019
+
+**Cursos:** Auditoría Interna y a Terceros GMP/BPM (UTN San Nicolás, 2026) · Gestión de Calidad ISO 9001 (Edutin Academy, 2026)
 
 ---
 
@@ -90,7 +95,7 @@ la reconstruí desde cero sobre **Supabase**.
 
 - **Programación:** C (en aprendizaje), HTML, CSS, JavaScript
 - **Herramientas:** Git, GitHub, GitHub Pages, Supabase (Postgres, RLS), VS Code
-- **Calidad:** ISO 9001, No Conformidades, acciones correctivas, análisis de causa raíz (Ishikawa, 5 por qué, Pareto), control en línea, informes de desvíos, KPIs de calidad
+- **Calidad:** ISO 9001:2015, GMP/BPM, auditoría interna, No Conformidades, acciones correctivas, análisis de causa raíz (Ishikawa, 5 por qué, Pareto), trazabilidad y liberación de lotes, control en línea, informes de desvíos, KPIs de calidad, Lean Six Sigma (en formación)
 
 ---
 
