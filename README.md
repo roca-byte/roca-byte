@@ -77,6 +77,15 @@ la reconstruí desde cero sobre **Supabase**.
 
 ---
 
+### 🔒 Seguridad
+
+Estoy aprendiendo ciberseguridad y aplico lo que aprendo a mis propias apps.
+Documento revisiones, laboratorios y notas en mi [bitácora de seguridad](https://github.com/roca-byte/bitacora-seguridad).
+
+**Última publicación:** [Revisión de seguridad de la suite QualityOS](https://github.com/roca-byte/bitacora-seguridad/blob/main/revisiones/2026-11-revision-suite-qualityos.md) · noviembre 2026
+
+---
+
 ### 🎓 Formación
 
 - **Tecnicatura Universitaria en Desarrollo de Software** · Universidad Provincial de Ezeiza (UPE) · *en curso, 1er año*
@@ -90,6 +99,7 @@ la reconstruí desde cero sobre **Supabase**.
 
 - **Programación:** C (en aprendizaje), HTML, CSS, JavaScript
 - **Herramientas:** Git, GitHub, GitHub Pages, Supabase (Postgres, RLS), VS Code
+- **Seguridad:** RLS y permisos en Postgres, prevención de XSS, revisión de secretos y de dependencias vulnerables (CVE), OWASP Top 10 (en aprendizaje)
 - **Calidad:** ISO 9001, No Conformidades, acciones correctivas, análisis de causa raíz (Ishikawa, 5 por qué, Pareto), control en línea, informes de desvíos, KPIs de calidad
 
 ---
