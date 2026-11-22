@@ -77,6 +77,30 @@ la reconstruí desde cero sobre **Supabase**.
 
 ---
 
+### 🔒 Seguridad
+
+Mis apps manejan datos de planta, así que reviso su seguridad como parte del trabajo. En
+noviembre de 2026 hice una revisión completa de la suite, asistida con IA:
+
+- **Secretos:** revisé el código y **todo el historial de git** de cada repo buscando claves,
+  tokens y contraseñas. No había ninguno expuesto.
+- **Control de acceso (QualityOS):** confirmé que cada tabla tiene **RLS** activado, que cada
+  usuario ve solo los datos de su empresa y que toda escritura pasa por funciones que validan
+  el rol en el servidor. Esconder un botón en la pantalla no alcanza.
+- **Inyección de código (XSS):** verifiqué que todo texto que carga el usuario se escape antes
+  de mostrarse, en todas las apps.
+- **Dependencias:** actualicé las librerías con vulnerabilidades conocidas
+  (jsPDF 2.5.1 → 4.2.1 y SheetJS 0.18.5 → 0.20.3, que corrige CVE-2023-30533 y CVE-2024-22363).
+  Comparé PDF y Excel generados con la versión vieja y la nueva para asegurarme de no
+  romper nada.
+- **Cuentas:** revisé la configuración de autenticación de Supabase y el chequeo de seguridad
+  del proyecto, y dejé mi email fuera de los commits.
+
+La firma de dictámenes en QualityOS pide la contraseña y bloquea después de 5 intentos
+fallidos en 15 minutos.
+
+---
+
 ### 🎓 Formación
 
 - **Tecnicatura Universitaria en Desarrollo de Software** · Universidad Provincial de Ezeiza (UPE) · *en curso, 1er año*
@@ -90,6 +114,7 @@ la reconstruí desde cero sobre **Supabase**.
 
 - **Programación:** C (en aprendizaje), HTML, CSS, JavaScript
 - **Herramientas:** Git, GitHub, GitHub Pages, Supabase (Postgres, RLS), VS Code
+- **Seguridad:** RLS y permisos en Postgres, prevención de XSS, revisión de secretos y de dependencias vulnerables (CVE), OWASP Top 10 (en aprendizaje)
 - **Calidad:** ISO 9001, No Conformidades, acciones correctivas, análisis de causa raíz (Ishikawa, 5 por qué, Pareto), control en línea, informes de desvíos, KPIs de calidad
 
 ---
